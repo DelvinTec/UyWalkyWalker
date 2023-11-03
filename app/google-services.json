@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "886516023942",
+    "project_id": "uywalky",
+    "storage_bucket": "uywalky.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886516023942:android:77db0659553ea752340707",
+        "android_client_info": {
+          "package_name": "com.delvin.uber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCExklhSIB-7oj0zxt7OUfSxiSAJY7F2KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886516023942:android:4c4ee24f77a82140340707",
+        "android_client_info": {
+          "package_name": "com.delvin.uywalkypaseador"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCExklhSIB-7oj0zxt7OUfSxiSAJY7F2KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886516023942:android:32de593cf2924910340707",
+        "android_client_info": {
+          "package_name": "com.delvin.uywalkywalker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCExklhSIB-7oj0zxt7OUfSxiSAJY7F2KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
